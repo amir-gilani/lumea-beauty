@@ -205,7 +205,3 @@ The styling is governed by custom Tailwind CSS v4 design tokens defined in `src/
 | `--color-surface-container` | `#fde9ed` | Blush Background Card |
 | `--font-sans` | `'Vazirmatn', sans-serif` | Clean, high-legibility Persian Typography |
 
----
-
-## 📄 License
-Private & Proprietary — Developed for **LUMÉA Beauté**. All rights reserved.
