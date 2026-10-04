@@ -13,6 +13,12 @@ The platform features full RTL (Right-to-Left) support, bespoke Persian typograp
 
 ---
 
+## 📸 Preview
+
+![LUMÉA Beauté Homepage](./docs/homepage.png)
+
+---
+
 ## 🛠 Tech Stack & Core Technologies
 
 ### 1. **Frontend Framework & Language**
