@@ -17,6 +17,16 @@ The platform features full RTL (Right-to-Left) support, bespoke Persian typograp
 
 ![LUMÉA Beauté Homepage](./docs/homepage.png)
 
+## 📝 Note About This Version
+
+This is the free and public version of the LUMÉA Beauté project, created to be shared on GitHub and used as a customizable starting point.
+
+This version may differ from my personal version in some visual and design details, including images, spacing, layouts, hover effects, and other UI elements.
+
+Feel free to replace the images, adjust the layout and spacing, modify hover effects, and customize the design to fit your own needs.
+
+## Tech Stack & Core Technologies
+
 ---
 
 ## 🛠 Tech Stack & Core Technologies
