@@ -29,6 +29,7 @@ Feel free to replace the images, adjust the layout and spacing, modify hover eff
 
 ## 🛠 Tech Stack & Core Technologies
 
+
 ### 1. **Frontend Framework & Language**
 - **React 19** (`react`, `react-dom`): Latest React architecture utilizing functional components and modern hooks.
 - **TypeScript 5+** (`typescript`, `tsx`): Strict type checking, robust data models (`Product`, `Category`, `Article`, `Order`, `Review`), and type-safe state interfaces.
