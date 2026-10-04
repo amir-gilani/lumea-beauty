@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉA Beauty | فروشگاه تخصصی لوازم آرایشی و زیبایی",
+  "description": "فروشگاه آنلاین تخصصی محصولات آرایشی، پوستی و عطری لومیا (LUMÉA Beauty) با تضمین ۱۰۰٪ اصالت کالا و ارسال سریع به سراسر ایران.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
