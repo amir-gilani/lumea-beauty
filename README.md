@@ -25,8 +25,6 @@ This version may differ from my personal version in some visual and design detai
 
 Feel free to replace the images, adjust the layout and spacing, modify hover effects, and customize the design to fit your own needs.
 
-## Tech Stack & Core Technologies
-
 ---
 
 ## 🛠 Tech Stack & Core Technologies
