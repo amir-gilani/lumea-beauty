@@ -210,7 +210,7 @@ export const HomePage: React.FC = () => {
       readTime: 'خواندن در ۳ دقیقه',
       title: 'محافظت از پوست در برابر آفتاب و نور آبی صفحه نمایش',
       excerpt: 'آیا نور مانیتور و گوشی واقعاً باعث پیری زودرس می‌شود؟ بررسی آخرین پژوهش‌ها...',
-      image: '/images/articles/article-sun-protection.jpg',
+      image: '/images/articles/article-skincare-routine.jpg',
     },
   ];
 
