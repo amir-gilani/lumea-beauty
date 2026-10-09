@@ -1,7 +1,13 @@
-# LUMÉA Beauté (LUMÉA Paris) 🌸
+# LUMÉA Beauté | Luxury Beauty & Fragrance E-Commerce
 
-> **A Luxury Skincare, High-End Cosmetics & Fine Fragrance E-Commerce Web Application**  
-> Designed with meticulous Persian (RTL) typography, responsive editorial layout, and state-of-the-art frontend architecture.
+> A modern, elegant, fully responsive, and feature-rich Luxury Beauty E-Commerce Web Application built with **React 19**, **TypeScript**, **Vite 8**, and **Tailwind CSS v4**, featuring native **Persian RTL (Right-to-Left)** support, premium editorial design, and a seamless shopping experience.
+
+[![React](https://img.shields.io/badge/React-19.0.1-61DAFB?logo=react\&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-7.0.2-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8.3.0-646CFF?logo=vite\&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-v7-CA4245?logo=react-router\&logoColor=white)](https://reactrouter.com/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 ---
 
