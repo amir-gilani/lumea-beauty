@@ -1,4 +1,4 @@
-# LUMÉA Beauté (LUMÉA Paris) 🌸✨
+# LUMÉA Beauté (LUMÉA Paris) 🌸
 
 > **A Luxury Skincare, High-End Cosmetics & Fine Fragrance E-Commerce Web Application**  
 > Designed with meticulous Persian (RTL) typography, responsive editorial layout, and state-of-the-art frontend architecture.
